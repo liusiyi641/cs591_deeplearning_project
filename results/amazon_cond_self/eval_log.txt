@@ -1,0 +1,112 @@
+iter   25:  acc_pos: 0.4826 acc_neg: 0.2837 bleu_pos: 88.6890 bleu_neg: 87.5251 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter   50:  acc_pos: 0.4872 acc_neg: 0.2742 bleu_pos: 90.6059 bleu_neg: 88.6974 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter   75:  acc_pos: 0.4896 acc_neg: 0.2671 bleu_pos: 92.4662 bleu_neg: 91.5279 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  100:  acc_pos: 0.4896 acc_neg: 0.2671 bleu_pos: 93.2780 bleu_neg: 92.3436 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  125:  acc_pos: 0.4942 acc_neg: 0.2671 bleu_pos: 94.9096 bleu_neg: 93.6864 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  150:  acc_pos: 0.4965 acc_neg: 0.2648 bleu_pos: 95.0949 bleu_neg: 94.8219 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  175:  acc_pos: 0.5058 acc_neg: 0.2600 bleu_pos: 95.6590 bleu_neg: 95.3263 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  200:  acc_pos: 0.5035 acc_neg: 0.2624 bleu_pos: 96.5482 bleu_neg: 95.6779 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  225:  acc_pos: 0.5035 acc_neg: 0.2624 bleu_pos: 97.1854 bleu_neg: 96.0107 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  250:  acc_pos: 0.5035 acc_neg: 0.2648 bleu_pos: 97.3520 bleu_neg: 96.2329 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  275:  acc_pos: 0.5035 acc_neg: 0.2624 bleu_pos: 97.1525 bleu_neg: 96.1371 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  300:  acc_pos: 0.5035 acc_neg: 0.2624 bleu_pos: 97.2569 bleu_neg: 95.5041 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  325:  acc_pos: 0.5012 acc_neg: 0.2600 bleu_pos: 97.4050 bleu_neg: 95.4228 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  350:  acc_pos: 0.4988 acc_neg: 0.2624 bleu_pos: 97.5806 bleu_neg: 95.5662 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  375:  acc_pos: 0.4988 acc_neg: 0.2600 bleu_pos: 97.3035 bleu_neg: 95.5649 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  400:  acc_pos: 0.4988 acc_neg: 0.2600 bleu_pos: 97.2612 bleu_neg: 95.0406 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  425:  acc_pos: 0.4988 acc_neg: 0.2624 bleu_pos: 97.1766 bleu_neg: 94.7756 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  450:  acc_pos: 0.4988 acc_neg: 0.2624 bleu_pos: 97.1853 bleu_neg: 94.3956 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  475:  acc_pos: 0.4965 acc_neg: 0.2459 bleu_pos: 97.5098 bleu_neg: 94.2639 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  500:  acc_pos: 0.4942 acc_neg: 0.2482 bleu_pos: 97.6373 bleu_neg: 94.1095 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  525:  acc_pos: 0.4942 acc_neg: 0.2506 bleu_pos: 96.3004 bleu_neg: 93.6993 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  550:  acc_pos: 0.4965 acc_neg: 0.2553 bleu_pos: 97.1849 bleu_neg: 94.5392 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  575:  acc_pos: 0.4942 acc_neg: 0.2553 bleu_pos: 96.5996 bleu_neg: 94.4894 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  600:  acc_pos: 0.4965 acc_neg: 0.2553 bleu_pos: 96.6135 bleu_neg: 94.7258 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  625:  acc_pos: 0.4942 acc_neg: 0.2553 bleu_pos: 97.2725 bleu_neg: 94.9447 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  650:  acc_pos: 0.4919 acc_neg: 0.2530 bleu_pos: 97.3716 bleu_neg: 94.8706 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  675:  acc_pos: 0.4965 acc_neg: 0.2553 bleu_pos: 97.3809 bleu_neg: 94.4614 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  700:  acc_pos: 0.4919 acc_neg: 0.2577 bleu_pos: 97.7000 bleu_neg: 94.9257 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  725:  acc_pos: 0.4942 acc_neg: 0.2577 bleu_pos: 97.8723 bleu_neg: 94.3545 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  750:  acc_pos: 0.4942 acc_neg: 0.2790 bleu_pos: 96.8913 bleu_neg: 93.9366 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  775:  acc_pos: 0.4942 acc_neg: 0.2600 bleu_pos: 97.0535 bleu_neg: 94.8047 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  800:  acc_pos: 0.4942 acc_neg: 0.2600 bleu_pos: 96.9577 bleu_neg: 93.2183 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  825:  acc_pos: 0.4988 acc_neg: 0.2553 bleu_pos: 97.2590 bleu_neg: 93.3686 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  850:  acc_pos: 0.5081 acc_neg: 0.2553 bleu_pos: 96.1279 bleu_neg: 94.0193 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  875:  acc_pos: 0.5151 acc_neg: 0.2506 bleu_pos: 95.8758 bleu_neg: 92.4403 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  900:  acc_pos: 0.5174 acc_neg: 0.2506 bleu_pos: 95.7001 bleu_neg: 92.0689 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  925:  acc_pos: 0.5151 acc_neg: 0.2530 bleu_pos: 95.2573 bleu_neg: 92.0277 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  950:  acc_pos: 0.5151 acc_neg: 0.2530 bleu_pos: 95.6205 bleu_neg: 92.1455 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  975:  acc_pos: 0.5174 acc_neg: 0.2624 bleu_pos: 95.6074 bleu_neg: 92.2461 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter 1000:  acc_pos: 0.5267 acc_neg: 0.2553 bleu_pos: 93.9869 bleu_neg: 89.0981 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter 1025:  acc_pos: 0.5638 acc_neg: 0.2719 bleu_pos: 91.9587 bleu_neg: 90.4173 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter 1050:  acc_pos: 0.5708 acc_neg: 0.2766 bleu_pos: 89.0553 bleu_neg: 88.6884 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter 1075:  acc_pos: 0.5754 acc_neg: 0.2624 bleu_pos: 88.8867 bleu_neg: 89.9203 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter 1100:  acc_pos: 0.5708 acc_neg: 0.3783 bleu_pos: 89.9633 bleu_neg: 85.7690 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter 1125:  acc_pos: 0.6056 acc_neg: 0.4279 bleu_pos: 88.4277 bleu_neg: 83.1913 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter 1150:  acc_pos: 0.5777 acc_neg: 0.4113 bleu_pos: 88.3580 bleu_neg: 81.3483 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter 1175:  acc_pos: 0.5522 acc_neg: 0.4279 bleu_pos: 84.6590 bleu_neg: 82.5275 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter 1200:  acc_pos: 0.5754 acc_neg: 0.3972 bleu_pos: 84.2597 bleu_neg: 84.3473 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter 1225:  acc_pos: 0.5963 acc_neg: 0.3239 bleu_pos: 84.1807 bleu_neg: 85.2308 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter 1250:  acc_pos: 0.6172 acc_neg: 0.3239 bleu_pos: 84.9670 bleu_neg: 84.2049 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter 1275:  acc_pos: 0.6241 acc_neg: 0.4728 bleu_pos: 81.5354 bleu_neg: 76.8268 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter 1300:  acc_pos: 0.6218 acc_neg: 0.4043 bleu_pos: 82.9471 bleu_neg: 82.0930 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter 1325:  acc_pos: 0.6102 acc_neg: 0.4232 bleu_pos: 80.1003 bleu_neg: 77.8495 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter 1350:  acc_pos: 0.6172 acc_neg: 0.3191 bleu_pos: 82.9048 bleu_neg: 80.9744 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter 1375:  acc_pos: 0.6775 acc_neg: 0.3428 bleu_pos: 78.2765 bleu_neg: 79.1328 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter 1400:  acc_pos: 0.6705 acc_neg: 0.3357 bleu_pos: 78.8250 bleu_neg: 80.1417 ppl_pos: -1.0000 ppl_neg: -1.0000
+

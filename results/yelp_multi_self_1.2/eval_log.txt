@@ -1,0 +1,122 @@
+iter   25:  acc_pos: 0.0700 acc_neg: 0.0780 bleu_pos: 80.9305 bleu_neg: 81.4453 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter   50:  acc_pos: 0.0920 acc_neg: 0.2360 bleu_pos: 78.7778 bleu_neg: 75.9183 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter   75:  acc_pos: 0.3100 acc_neg: 0.1340 bleu_pos: 76.6470 bleu_neg: 82.6098 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  100:  acc_pos: 0.1260 acc_neg: 0.1360 bleu_pos: 82.1224 bleu_neg: 83.6808 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  125:  acc_pos: 0.1580 acc_neg: 0.1940 bleu_pos: 82.2392 bleu_neg: 82.6746 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  150:  acc_pos: 0.1740 acc_neg: 0.1920 bleu_pos: 81.5800 bleu_neg: 83.9894 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  175:  acc_pos: 0.2620 acc_neg: 0.2300 bleu_pos: 80.2647 bleu_neg: 82.8443 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  200:  acc_pos: 0.1400 acc_neg: 0.3180 bleu_pos: 86.8682 bleu_neg: 81.3806 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  225:  acc_pos: 0.3600 acc_neg: 0.2400 bleu_pos: 78.3431 bleu_neg: 84.8953 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  250:  acc_pos: 0.1460 acc_neg: 0.2160 bleu_pos: 88.0299 bleu_neg: 86.4903 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  275:  acc_pos: 0.2600 acc_neg: 0.2100 bleu_pos: 82.4547 bleu_neg: 86.8919 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  300:  acc_pos: 0.1720 acc_neg: 0.1800 bleu_pos: 87.4631 bleu_neg: 88.7045 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  325:  acc_pos: 0.1800 acc_neg: 0.2340 bleu_pos: 86.0240 bleu_neg: 86.4860 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  350:  acc_pos: 0.1580 acc_neg: 0.2680 bleu_pos: 89.2595 bleu_neg: 85.1581 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  375:  acc_pos: 0.3200 acc_neg: 0.3540 bleu_pos: 81.6243 bleu_neg: 82.1313 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  400:  acc_pos: 0.2220 acc_neg: 0.2940 bleu_pos: 80.6461 bleu_neg: 85.1767 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  425:  acc_pos: 0.2040 acc_neg: 0.2940 bleu_pos: 84.9164 bleu_neg: 82.3993 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  450:  acc_pos: 0.3280 acc_neg: 0.3860 bleu_pos: 81.0269 bleu_neg: 79.2908 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  475:  acc_pos: 0.3580 acc_neg: 0.3820 bleu_pos: 78.6257 bleu_neg: 79.7462 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  500:  acc_pos: 0.5360 acc_neg: 0.4280 bleu_pos: 73.4694 bleu_neg: 79.2924 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  525:  acc_pos: 0.6560 acc_neg: 0.4280 bleu_pos: 69.6281 bleu_neg: 77.5079 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  550:  acc_pos: 0.6080 acc_neg: 0.5040 bleu_pos: 69.8445 bleu_neg: 74.7874 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  575:  acc_pos: 0.7500 acc_neg: 0.5300 bleu_pos: 62.6180 bleu_neg: 74.6416 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  600:  acc_pos: 0.7380 acc_neg: 0.5400 bleu_pos: 63.0984 bleu_neg: 73.7590 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  625:  acc_pos: 0.7800 acc_neg: 0.5560 bleu_pos: 62.2801 bleu_neg: 73.0425 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  650:  acc_pos: 0.7440 acc_neg: 0.6020 bleu_pos: 63.4159 bleu_neg: 71.8718 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  675:  acc_pos: 0.7980 acc_neg: 0.5360 bleu_pos: 60.8464 bleu_neg: 74.6396 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  700:  acc_pos: 0.6500 acc_neg: 0.6100 bleu_pos: 65.8269 bleu_neg: 70.3336 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  725:  acc_pos: 0.7680 acc_neg: 0.6000 bleu_pos: 63.0370 bleu_neg: 71.6984 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  750:  acc_pos: 0.7740 acc_neg: 0.5860 bleu_pos: 62.0889 bleu_neg: 71.8379 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  775:  acc_pos: 0.7960 acc_neg: 0.5920 bleu_pos: 61.0141 bleu_neg: 70.5853 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  800:  acc_pos: 0.7760 acc_neg: 0.5660 bleu_pos: 61.8414 bleu_neg: 73.1061 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  825:  acc_pos: 0.7920 acc_neg: 0.6080 bleu_pos: 62.1815 bleu_neg: 70.7201 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  850:  acc_pos: 0.8020 acc_neg: 0.6240 bleu_pos: 60.4758 bleu_neg: 69.5589 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  875:  acc_pos: 0.8240 acc_neg: 0.6540 bleu_pos: 60.4241 bleu_neg: 69.0464 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  900:  acc_pos: 0.8260 acc_neg: 0.6100 bleu_pos: 60.4981 bleu_neg: 70.6357 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  925:  acc_pos: 0.8300 acc_neg: 0.6460 bleu_pos: 60.0460 bleu_neg: 68.6471 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  950:  acc_pos: 0.7080 acc_neg: 0.6360 bleu_pos: 64.9390 bleu_neg: 68.9136 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter  975:  acc_pos: 0.8220 acc_neg: 0.6160 bleu_pos: 60.7683 bleu_neg: 70.6000 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter 1000:  acc_pos: 0.8300 acc_neg: 0.6260 bleu_pos: 60.3824 bleu_neg: 69.0522 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter 1025:  acc_pos: 0.8420 acc_neg: 0.6060 bleu_pos: 59.1529 bleu_neg: 69.9122 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter 1050:  acc_pos: 0.8440 acc_neg: 0.5940 bleu_pos: 58.7625 bleu_neg: 71.2900 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter 1075:  acc_pos: 0.8360 acc_neg: 0.6420 bleu_pos: 59.4361 bleu_neg: 70.1484 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter 1100:  acc_pos: 0.8220 acc_neg: 0.6460 bleu_pos: 60.0023 bleu_neg: 68.3759 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter 1125:  acc_pos: 0.8300 acc_neg: 0.6440 bleu_pos: 60.6696 bleu_neg: 68.1159 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter 1150:  acc_pos: 0.8700 acc_neg: 0.6860 bleu_pos: 58.1249 bleu_neg: 65.0728 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter 1175:  acc_pos: 0.8320 acc_neg: 0.6560 bleu_pos: 59.6966 bleu_neg: 67.4462 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter 1200:  acc_pos: 0.8420 acc_neg: 0.6520 bleu_pos: 57.3988 bleu_neg: 67.6279 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter 1225:  acc_pos: 0.8180 acc_neg: 0.6740 bleu_pos: 58.7000 bleu_neg: 67.4420 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter 1250:  acc_pos: 0.8120 acc_neg: 0.7120 bleu_pos: 59.0158 bleu_neg: 66.4891 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter 1275:  acc_pos: 0.8680 acc_neg: 0.6600 bleu_pos: 59.5913 bleu_neg: 68.4180 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter 1300:  acc_pos: 0.8040 acc_neg: 0.6900 bleu_pos: 61.4211 bleu_neg: 67.3582 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter 1325:  acc_pos: 0.8500 acc_neg: 0.6720 bleu_pos: 57.7787 bleu_neg: 67.6645 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter 1350:  acc_pos: 0.8460 acc_neg: 0.7120 bleu_pos: 59.2471 bleu_neg: 64.8792 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter 1375:  acc_pos: 0.8420 acc_neg: 0.7280 bleu_pos: 57.7288 bleu_neg: 67.8482 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter 1400:  acc_pos: 0.8460 acc_neg: 0.7720 bleu_pos: 57.1470 bleu_neg: 64.1497 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter 1425:  acc_pos: 0.8440 acc_neg: 0.7320 bleu_pos: 56.3043 bleu_neg: 67.0691 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter 1450:  acc_pos: 0.8380 acc_neg: 0.7000 bleu_pos: 59.8599 bleu_neg: 67.0900 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter 1475:  acc_pos: 0.8580 acc_neg: 0.7500 bleu_pos: 57.7007 bleu_neg: 65.7178 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter 1500:  acc_pos: 0.8640 acc_neg: 0.7860 bleu_pos: 55.9635 bleu_neg: 63.4699 ppl_pos: -1.0000 ppl_neg: -1.0000
+
+iter 1525:  acc_pos: 0.8800 acc_neg: 0.7580 bleu_pos: 56.8151 bleu_neg: 66.6445 ppl_pos: -1.0000 ppl_neg: -1.0000
+
