@@ -29,6 +29,7 @@ parameters could be found in the Config() in main.py.
 Some important parameters for evaluation are: 
 
 discriminator_method : the type of discriminator ('Multi' or 'Cond')
+
 data_path = './data/yelp/' (or amazon_new)
 
 
